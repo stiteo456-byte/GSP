@@ -104,7 +104,7 @@
 - Bevestiging voor destructieve acties
 - Validatie van verplichte velden
 - Succes- en foutmelding
- goon
+  
 ## Could-have
 - Oefeningen filteren op spiergroep en materiaal
 - Oefeningen archiveren in plaats van verwijderen
