@@ -1,9 +1,9 @@
 # GSP
 Workout Tracker
 
-NAAM: ...
+NAAM: FitTrack
 
-Kleurpallet: ...
+Kleurpallet: [...](https://coolors.co/2b2d42-8d99ae-edf2f4-ef233c-d80032)
 
 
 ## stappenplan: 
