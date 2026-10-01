@@ -3,12 +3,12 @@ Workout Tracker
 
 NAAM: FitTrack
 
-Kleurpallet: [Coolors](https://coolors.co/000505-3b3355-5d5d81-bfcde0-fefcfd)
-- #000505
-- #3B3355
-- #5D5D81
-- #BFCDE0
-- #FEFCFD
+Kleurpallet: [Coolors](https://coolors.co/519e8a-7eb09b-ef233c-1e2d2f-041f1e)
+- #519E8A
+- #7EB09B
+- #EF233C
+- #1E2D2F
+- #041F1E
 
 ## stappenplan: 
 https://docs.google.com/document/d/11_weD30IZm6McqYDyb1D1oduWGI0AajYIX2uFs1_us4/edit?usp=sharing
